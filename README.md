@@ -6,7 +6,7 @@ Hey! I'm a developer who understands both code and business.<br><br>At 19, my pa
 
 
 ### 💼 What I Do
-<br>🌱 Responsive landing pages
+🌱 Responsive landing pages
 <br>🌱 Multi-page websites
 <br>🌱 Business websites that convert
 <br>
