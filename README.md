@@ -1,6 +1,21 @@
 # 💫 About Me:
-Hey! I'm a developer who understands both code and business.<br><br>At 19, my parents handed me the keys to their coffee roasting business. For 2 years, I managed everything — inventory, finances, marketing, customer service, the whole deal. It was intense, but it taught me how to execute, solve problems, and deliver results.<br><br>Now I'm channeling that same energy into web development. I build responsive websites for small businesses using HTML, CSS, and JavaScript. What sets me apart? I don't just code — I understand what makes a business successful online.<br><br>Currently freelancing, learning full-stack development, and building a vanlife to work remotely. If you're an entrepreneur, developer, or someone chasing unconventional dreams, let's connect!<br><br>---<br><br>🔭 I'm currently working on building my freelance web development business<br><br>🌱 I'm currently learning full-stack development (Node.js, Express, MongoDB, React)<br><br>👯 I'm looking to collaborate on web projects for small businesses and startups<br><br>💬 Ask me about web development, entrepreneurship, or vanlife<br><br>📫 How to reach me: [ton-email@exemple.com]<br><br>⚡ Fun fact: I managed a coffee roasting business at 19 before becoming a developer
+Hey! I'm a developer who understands both code and business.<br><br>At 19, my parents handed me the keys to their coffee roasting business. For 2 years, I managed everything — inventory, finances, marketing, customer service, the whole deal. It was intense, but it taught me how to execute, solve problems, and deliver results.<br><br>Now I'm channeling that same energy into web development. I build responsive websites for small businesses using HTML, CSS, and JavaScript. What sets me apart? I don't just code — I understand what makes a business successful online.<br><br>Currently freelancing, learning full-stack development, and building a vanlife to work remotely. If you're an entrepreneur, developer, or someone chasing unconventional dreams, let's connect!
+<br>
 
+📫 How to reach me: lapointebillie@gmail.com<br>
+
+### 🚀 Currently
+🔨 Building my freelance web dev business
+📚 Learning full-stack development (Node.js, Express, MongoDB)
+🚐 Converting a van into a mobile office for remote work
+
+### 💼 What I Do
+🌱 Responsive landing pages
+🌱 Multi-page websites
+🌱 Business websites that convert
+
+
+💡 Open to freelance opportunities and collaborations
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/onecupcoding) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/billapointe) 
@@ -11,30 +26,3 @@ Hey! I'm a developer who understands both code and business.<br><br>At 19, my pa
 ![](https://github-readme-stats.vercel.app/api?username=billapointe&theme=rose_pine&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=billapointe&theme=rose_pine&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=billapointe&theme=rose_pine&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-
-
-### 🛠 Tech Stack
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
-
-### 🚀 Currently
-- 🔨 Building my freelance web dev business
-- 📚 Learning full-stack development (Node.js, Express, MongoDB)
-- 🚐 Converting a van into a mobile office for remote work
-
-### 💼 What I Do
-- Responsive landing pages
-- Multi-page websites
-- Business websites that convert
-
-### 📫 Let's Connect
-- Portfolio: [ton-site.com]
-- LinkedIn: [ton-linkedin]
-- Email: [ton-email]
-
----
-
-💡 Open to freelance opportunities and collaborations
