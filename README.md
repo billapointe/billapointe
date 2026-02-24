@@ -4,16 +4,12 @@ Hey! I'm a developer who understands both code and business.<br><br>At 19, my pa
 
 📫 How to reach me: lapointebillie@gmail.com<br>
 
-### 🚀 Currently
-🔨 Building my freelance web dev business
-📚 Learning full-stack development (Node.js, Express, MongoDB)
-🚐 Converting a van into a mobile office for remote work
 
 ### 💼 What I Do
-🌱 Responsive landing pages
-🌱 Multi-page websites
-🌱 Business websites that convert
-
+<br>🌱 Responsive landing pages
+<br>🌱 Multi-page websites
+<br>🌱 Business websites that convert
+<br>
 
 💡 Open to freelance opportunities and collaborations
 
